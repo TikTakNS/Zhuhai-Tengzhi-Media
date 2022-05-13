@@ -561,6 +561,10 @@ a {
   padding-top: 1rem;
 }
 
+.blog-post {
+  padding-top: 70px;
+}
+
 .hero-office {
   height: 400px;
   background-image: url("../img/about-bg-phone.png");
